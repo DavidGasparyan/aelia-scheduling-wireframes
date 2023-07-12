@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/aelia-scheduling-wireframes/static/css/main.e80e42b8.css",
-    "main.js": "/aelia-scheduling-wireframes/static/js/main.6c444be9.js",
+    "main.css": "/aelia-scheduling-wireframes/static/css/main.fb5fed35.css",
+    "main.js": "/aelia-scheduling-wireframes/static/js/main.0744a4b8.js",
     "static/js/787.129ad5f9.chunk.js": "/aelia-scheduling-wireframes/static/js/787.129ad5f9.chunk.js",
     "static/media/slot-placeholder.svg": "/aelia-scheduling-wireframes/static/media/slot-placeholder.256e56e84e479a9c45a39cd67acd5afe.svg",
     "static/media/img-placeholder.svg": "/aelia-scheduling-wireframes/static/media/img-placeholder.cf8a6df0f56584a65425240a940100d2.svg",
+    "static/media/hamburger-icon.svg": "/aelia-scheduling-wireframes/static/media/hamburger-icon.654793e2cd31455ee886c266a5cbb720.svg",
     "index.html": "/aelia-scheduling-wireframes/index.html",
     "static/media/short-text-placeholder.svg": "/aelia-scheduling-wireframes/static/media/short-text-placeholder.2639ff30ad29554923f2b35360380300.svg",
     "static/media/small-text-placeholder.svg": "/aelia-scheduling-wireframes/static/media/small-text-placeholder.74f6a9d71ef4b82dde86814c892392bb.svg",
@@ -12,12 +13,12 @@
     "static/media/subheading-placeholder.svg": "/aelia-scheduling-wireframes/static/media/subheading-placeholder.51d0525d4bc437d8e4f5cdae49bfa213.svg",
     "static/media/small-heading-placeholder.svg": "/aelia-scheduling-wireframes/static/media/small-heading-placeholder.c8c275d8a3fc2cbbbba3d9cc569ae51e.svg",
     "static/media/heading-placeholder.svg": "/aelia-scheduling-wireframes/static/media/heading-placeholder.14d614684f8ccec0be74e860c53b7151.svg",
-    "main.e80e42b8.css.map": "/aelia-scheduling-wireframes/static/css/main.e80e42b8.css.map",
-    "main.6c444be9.js.map": "/aelia-scheduling-wireframes/static/js/main.6c444be9.js.map",
+    "main.fb5fed35.css.map": "/aelia-scheduling-wireframes/static/css/main.fb5fed35.css.map",
+    "main.0744a4b8.js.map": "/aelia-scheduling-wireframes/static/js/main.0744a4b8.js.map",
     "787.129ad5f9.chunk.js.map": "/aelia-scheduling-wireframes/static/js/787.129ad5f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e80e42b8.css",
-    "static/js/main.6c444be9.js"
+    "static/css/main.fb5fed35.css",
+    "static/js/main.0744a4b8.js"
   ]
 }
