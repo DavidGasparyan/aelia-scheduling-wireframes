@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/aelia-scheduling-wireframes/static/css/main.73e9e20c.css",
-    "main.js": "/aelia-scheduling-wireframes/static/js/main.367d2af8.js",
+    "main.js": "/aelia-scheduling-wireframes/static/js/main.440615f8.js",
     "static/js/787.129ad5f9.chunk.js": "/aelia-scheduling-wireframes/static/js/787.129ad5f9.chunk.js",
     "index.html": "/aelia-scheduling-wireframes/index.html",
     "static/media/lines.svg": "/aelia-scheduling-wireframes/static/media/lines.2639ff30ad29554923f2b35360380300.svg",
     "static/media/short-line.svg": "/aelia-scheduling-wireframes/static/media/short-line.51d0525d4bc437d8e4f5cdae49bfa213.svg",
     "static/media/long-line.svg": "/aelia-scheduling-wireframes/static/media/long-line.14d614684f8ccec0be74e860c53b7151.svg",
     "main.73e9e20c.css.map": "/aelia-scheduling-wireframes/static/css/main.73e9e20c.css.map",
-    "main.367d2af8.js.map": "/aelia-scheduling-wireframes/static/js/main.367d2af8.js.map",
+    "main.440615f8.js.map": "/aelia-scheduling-wireframes/static/js/main.440615f8.js.map",
     "787.129ad5f9.chunk.js.map": "/aelia-scheduling-wireframes/static/js/787.129ad5f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73e9e20c.css",
-    "static/js/main.367d2af8.js"
+    "static/js/main.440615f8.js"
   ]
 }
