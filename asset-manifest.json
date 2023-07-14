@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aelia-scheduling-wireframes/static/css/main.fb5fed35.css",
-    "main.js": "/aelia-scheduling-wireframes/static/js/main.0744a4b8.js",
+    "main.css": "/aelia-scheduling-wireframes/static/css/main.68590b39.css",
+    "main.js": "/aelia-scheduling-wireframes/static/js/main.5405f75c.js",
     "static/js/787.129ad5f9.chunk.js": "/aelia-scheduling-wireframes/static/js/787.129ad5f9.chunk.js",
     "static/media/slot-placeholder.svg": "/aelia-scheduling-wireframes/static/media/slot-placeholder.256e56e84e479a9c45a39cd67acd5afe.svg",
     "static/media/img-placeholder.svg": "/aelia-scheduling-wireframes/static/media/img-placeholder.cf8a6df0f56584a65425240a940100d2.svg",
@@ -13,12 +13,12 @@
     "static/media/subheading-placeholder.svg": "/aelia-scheduling-wireframes/static/media/subheading-placeholder.51d0525d4bc437d8e4f5cdae49bfa213.svg",
     "static/media/small-heading-placeholder.svg": "/aelia-scheduling-wireframes/static/media/small-heading-placeholder.c8c275d8a3fc2cbbbba3d9cc569ae51e.svg",
     "static/media/heading-placeholder.svg": "/aelia-scheduling-wireframes/static/media/heading-placeholder.14d614684f8ccec0be74e860c53b7151.svg",
-    "main.fb5fed35.css.map": "/aelia-scheduling-wireframes/static/css/main.fb5fed35.css.map",
-    "main.0744a4b8.js.map": "/aelia-scheduling-wireframes/static/js/main.0744a4b8.js.map",
+    "main.68590b39.css.map": "/aelia-scheduling-wireframes/static/css/main.68590b39.css.map",
+    "main.5405f75c.js.map": "/aelia-scheduling-wireframes/static/js/main.5405f75c.js.map",
     "787.129ad5f9.chunk.js.map": "/aelia-scheduling-wireframes/static/js/787.129ad5f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb5fed35.css",
-    "static/js/main.0744a4b8.js"
+    "static/css/main.68590b39.css",
+    "static/js/main.5405f75c.js"
   ]
 }
